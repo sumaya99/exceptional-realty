@@ -168,6 +168,9 @@ header{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 }
 
+#navbar nav a.menu-icon {
+  display:none;
+}
 /*////////// LOGO //////////*/
 #logo{
   padding: 84px 0 0;
