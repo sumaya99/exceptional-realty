@@ -72,6 +72,9 @@
         padding: 10px 20px;
         width:auto;
     }
+    #navbar nav{
+        display:block;
+    }
     #logo{
         padding: 60px 0 0;
     }
